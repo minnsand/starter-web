@@ -1,2 +1,0 @@
-Level 2 text file
-This is from notepad++
