@@ -16,3 +16,4 @@ Second description added
 Copyright norice 2022
 
 PLease fork this repo and issue PR
+Added text before feature merged to mater
