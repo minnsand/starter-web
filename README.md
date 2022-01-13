@@ -13,3 +13,4 @@ New entry to read me file
 ### Depolyment
 New entry for deployment function
 Second description added
+Copyright norice 2022
