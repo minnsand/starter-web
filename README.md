@@ -19,3 +19,6 @@ Copyright norice 2022
 
 PLease fork this repo and issue PR
 Added text before feature merged to mater
+
+### New Section
+New section entry added
