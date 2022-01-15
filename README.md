@@ -2,6 +2,7 @@
 My new line
 This repository is for showing how Git and GitHub work
 Rebasing example entry
+More changes from feature branch
 
 ## Purpose
 
